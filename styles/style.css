@@ -1,4 +1,4 @@
-* {
+*{
   margin: 0;
   padding: 0;
 }
@@ -87,6 +87,31 @@
 }
 .featured-flower-box p {
   margin-top: 10px;
+}
+/* best sell section */
+.bestsell{
+  margin-top: 50px;
+}
+.bestsell-titel{
+  text-align: center;
+}
+.bestsell-image-group{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bestsell-image-group img{
+  width: 180px;
+  height: 200px;
+  margin: 5px;
+}
+.bestsell-image-group h4{
+  color: #e55473;
+  text-align: center;
+}
+.bestsell-image-group p{
+  text-align: center;
+  color: rgba(0, 0, 0, 0.528);
 }
 /* offer section */
 .off-section {
