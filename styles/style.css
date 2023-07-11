@@ -166,3 +166,36 @@
     width: 100%;
     height: 100%;
 }
+.deal-btn input{
+    margin: 10px;
+    width: 300px;
+    padding: 5px;
+    font-size: 9px;
+}
+.deal-sub-btn{
+  background-color: #e55473;
+  border: none;
+  padding: 5px;
+  border-radius: 5px;
+  color: white;
+  width: 100px;
+}
+/* footer section */
+.footer-section{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+    height: 150px;
+}
+.footer-word-style{
+    color: #e55473;
+}
+.footer-text p{
+    font-size: 10px;
+    margin: 20px;
+}
+.footer-small-text p{
+    font-size: 8px;
+    color: rgba(255, 255, 255, 0.464);
+}
